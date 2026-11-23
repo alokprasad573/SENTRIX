@@ -755,3 +755,10 @@ The following future milestones are prioritized based on technical relevance, ar
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for complete details.
 
 Copyright (c) 2026 Alok Prasad.
+
+---
+
+<p align="center">
+  Made with 🧠 & ❤️ by <strong>Alok Prasad</strong> — because downtime is never an option.
+</p>
+
